@@ -8,8 +8,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Omgaalfa\\Ztensor\\rede\\neural\\": "",
-      "ZMatrix\\": "stubs/"
+      "Omgaalfa\\Ztensor\\rede\\neural\\": "src/",
+      "ZMatrix\\": "src/stubs/"
     }
   },
   "require-dev": {
